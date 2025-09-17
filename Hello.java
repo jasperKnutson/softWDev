@@ -1,11 +1,13 @@
 /**
  * hello
  */
-public class HelloUniverse {
+public class Hello {
 //change
 
     public static void main(String[] args){
-        System.out.print(x: "Hello universe!");
+        System.out.print("Hello universe!");
+        //System.out.println("test");
+
     }
 
 }
